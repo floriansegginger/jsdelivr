@@ -1,0 +1,5 @@
+author = "Woopsa Protocol"
+github = "https://github.com/woopsa-protocol/Woopsa"
+homepage = "http://www.woopsa.org/"
+description = "Woopsa is a protocol that's simple, lightweight, free, open-source, web and object-oriented, publish-subscribe, real-time capable and Industry 4.0 ready. It contributes to the revolution of the Internet of Things."
+mainfile = "Release/JavaScript/woopsa-client.min.js"
